@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shamytech/monsters-rolodex/static/css/main.eee3d325.css",
+    "main.js": "/shamytech/monsters-rolodex/static/js/main.36cb2dd6.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/shamytech/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/shamytech/monsters-rolodex/index.html",
+    "main.eee3d325.css.map": "/shamytech/monsters-rolodex/static/css/main.eee3d325.css.map",
+    "main.36cb2dd6.js.map": "/shamytech/monsters-rolodex/static/js/main.36cb2dd6.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/shamytech/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee3d325.css",
+    "static/js/main.36cb2dd6.js"
+  ]
+}
