@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex/static/css/main.eee3d325.css",
-    "main.js": "/monsters-rolodex/static/js/main.34439684.js",
-    "static/js/787.e4e9b7ff.chunk.js": "/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
-    "index.html": "/monsters-rolodex/index.html",
-    "main.eee3d325.css.map": "/monsters-rolodex/static/css/main.eee3d325.css.map",
-    "main.34439684.js.map": "/monsters-rolodex/static/js/main.34439684.js.map",
-    "787.e4e9b7ff.chunk.js.map": "/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+    "main.css": "/crwn-clothing/static/css/main.5867e9fa.css",
+    "main.js": "/crwn-clothing/static/js/main.5fcf7342.js",
+    "static/media/crown.svg": "/crwn-clothing/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/crwn-clothing/index.html",
+    "main.5867e9fa.css.map": "/crwn-clothing/static/css/main.5867e9fa.css.map",
+    "main.5fcf7342.js.map": "/crwn-clothing/static/js/main.5fcf7342.js.map"
   },
   "entrypoints": [
-    "static/css/main.eee3d325.css",
-    "static/js/main.34439684.js"
+    "static/css/main.5867e9fa.css",
+    "static/js/main.5fcf7342.js"
   ]
 }
